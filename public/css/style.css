@@ -121,6 +121,10 @@ footer {
     color: var(--main);
 }
 
+footer a {
+    color: var(--main);
+}
+
 @media (max-width: 900px) {
     .list {
         grid-template-columns: repeat(4, 1fr);
